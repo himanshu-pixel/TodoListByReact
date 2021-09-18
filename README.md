@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with TodoList.com App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped by Himanshu Kushwaha
+Deploment of  the projetc on netlify : https://todolistwithreactbykhiman.netlify.app/
+
+## Project Overview
+A simple project created by react where you can add your todo list
 
 ## Available Scripts
 
