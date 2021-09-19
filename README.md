@@ -1,7 +1,7 @@
 # Getting Started with TodoList.com App
 
 This project was bootstrapped by Himanshu Kushwaha
-Deploment of  the projetc on netlify : https://todolistwithreactbykhiman.netlify.app/
+Deployment of  the projetc on netlify : https://todolistwithreactbykhiman.netlify.app/
 
 ## Project Overview
 A simple project created by react where you can add your todo list
